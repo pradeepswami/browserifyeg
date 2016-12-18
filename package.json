@@ -1,0 +1,31 @@
+{
+  "name": "browserifyeg",
+  "version": "1.0.0",
+  "description": "browserify example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.0",
+    "angular-route": "^1.6.0",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "browserify": "^13.1.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^2.0.0",
+    "gulp-debug-streams": "^3.0.0",
+    "gulp-inject": "^4.1.0",
+    "gulp-less": "^3.3.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-util": "^3.0.7",
+    "require-dir": "^0.3.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
